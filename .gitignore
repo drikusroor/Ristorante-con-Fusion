@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Project-specific files for sublime ide
+*.sublime-project
+*.sublime-workspace
